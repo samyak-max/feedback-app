@@ -1,3 +1,11 @@
+Screenshot-
+
+![Screenshot 2022-05-21 000241](https://user-images.githubusercontent.com/76250685/169591169-2a62f017-8344-4a05-8be9-57795fa08ab9.png)
+****************************************
+Deployed site-
+https://benevolent-fudge-b7077b.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
